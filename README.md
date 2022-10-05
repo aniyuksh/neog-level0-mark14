@@ -1,0 +1,1 @@
+This is a vanilla js app. The main function of the app is to calculate the loss and profit of the stocks. 
