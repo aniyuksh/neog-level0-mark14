@@ -1,0 +1,65 @@
+body{
+  /* text-align: center; */
+}
+
+label{
+  display: block;
+  
+  padding-bottom: 1rem;
+}
+
+:root{
+  --primary-color : #8D4131;
+  --secondary-color : #ED9380 ;
+}
+
+h1{
+  padding-top: 8rem;
+  text-align: center;
+}
+
+main{
+  padding-top: 2rem;
+  width : 30%;
+  /* background-color: #8D4131; */
+  display: block;
+  margin: auto;
+}
+
+input{
+  display: block;
+  margin: auto;
+  width: 50%;
+  
+}
+
+main label{
+  padding: 1rem 1rem;
+}
+
+main label input{
+  margin-top: 1rem;
+}
+
+#submit-btn{
+  display: block;
+  margin: auto;
+  background: transparent;
+  border: #1589FF 1px solid;
+}
+
+body{
+  background-color: aliceblue;
+  border-style: groove;
+  height: 96.5vh;
+}
+
+#output-area{
+  width: 75%;
+  height: 5vh;
+  display: block;
+  margin: auto;
+  border: 1px #1589FF;
+  border-style:dashed;
+  margin-top: 1rem;
+}
